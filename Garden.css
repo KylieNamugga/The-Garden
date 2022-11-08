@@ -1,5 +1,9 @@
+body{
+    background-color: #346c4d;
+    margin: 0 10px 0 30px;
+
+}
 .navbar{
- background-color: #346c4d;
  color: white;
 }
 
@@ -22,17 +26,17 @@
 }
 
 .navbar h2{
-    margin-left: 30px;
+    margin-left: 10px;
 }
 
 .flex-container {
     color: white;
-    padding-top:50px ;
-    padding-bottom: 20px;
+    padding-top:30px ;
+    padding-bottom: 30px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-color: #346c4d ;
+    margin-right: 10px;
   }
 
   button{
@@ -49,3 +53,11 @@
     background-color: white;
     color: #346c4d;
  }
+
+
+
+  
+
+
+
+
